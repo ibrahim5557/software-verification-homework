@@ -6,6 +6,7 @@ Müşteri (Customer) yönetimi
 Hesap (Account) yönetimi
 Kredi (Loan) işlemleri
 Hem API üzerinden hem de web arayüzüyle işlemler gerçekleştirilebilir.
+
 #Özellikler
 
 🔐 Müşteri, hesap ve kredi CRUD işlemleri
@@ -13,6 +14,7 @@ Hem API üzerinden hem de web arayüzüyle işlemler gerçekleştirilebilir.
 📄 Spring MVC ile web arayüzü
 DTO kullanımı
 Exception handling ile sağlam yapı
+
 #Kullanılan Teknolojiler
 
 Java 17
